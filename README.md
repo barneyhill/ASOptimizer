@@ -1,4 +1,4 @@
-# ASOpimizer
+# ASOptimizer
 > **ASOptimizer consists of a database and two computational models: *sequence engineering* and *chemical engineering***.
 
 ## 0. Requirements
