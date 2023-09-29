@@ -1,7 +1,7 @@
 # ASOptimizer
 > **ASOptimizer consists of a database and two computational models: *sequence engineering* and *chemical engineering***.
 
-- To improve the accessibility of ASOptimizer, we have developed a web server that runs ASOptimizer on the backend and provided free access to it. You can access it through the following link: http://asoptimizer.s-core.ai/
+- To access ASOptimizer, we have developed a web server that runs ASOptimizer on the backend and provided free access to it. You can access it through the following link: http://asoptimizer.s-core.ai/
 
 ## 0. Requirements
 - Python 3.6
