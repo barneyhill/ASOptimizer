@@ -50,7 +50,7 @@ To perform sequence engineering with *your chosen setting*, use the following co
 
 - **Linear_regression.ipynb**: 
   - Displays a scatter plot comparing experimentally observed inhibition rates (x-axis) with their predicted values (y-axis) (Figure 3A and Figure 3B)
-  - Comparison with Sfold
+  - Comparison with sfold
 
 - **Plot_Contour.ipynb**: 
   - Displays a surface plot of Pearson correlation (ρ), represented by contour plots (Figure 3C and Figure 3D)
