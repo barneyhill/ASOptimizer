@@ -10,10 +10,10 @@
 > <pre><code>pip3 install -r requirements.txt</code></pre>
 
 - Please download the following data files and place npy files into the "/sequence_engineering/features" folder
-  - https://drive.google.com/file/d/10sRArsEHu6S5W0sbC-Vt4iLCMfzaiUG6/view?usp=sharing
+  - https://drive.google.com/file/d/1RSdweiYhFJq6gs3M4ns2tH6OXzehAZZb/view?usp=sharing
 
 - Please download the following data files and place csv files into the "/chemical_engineering/top6" folder
-  - https://drive.google.com/file/d/1UfcV5JvG4JdeOJn1kpKokuhfua4hptjz/view?usp=sharing
+  - https://drive.google.com/file/d/1UNvBYCB6h0dgOYRZ5kmmEecLLfNhRsgX/view?usp=sharing
 
 ## 1. Database
 
