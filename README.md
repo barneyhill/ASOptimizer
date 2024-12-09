@@ -28,7 +28,7 @@ The data used in this project is sourced from the following:
    - **Source**: *Spidercore Inc*. Special thanks to our dedicated team members for their efforts in compiling and organizing this dataset.  
 
 2. [Dataset source from *Roche.*] ([URL](https://www.sciencedirect.com/science/article/pii/S2162253119304068))  
-   - **Description**: This dataset contains 256 experimental results of ASO experiments trageting HIF1A gene discussed in the following publication:
+   - **Description**: This dataset contains 256 experimental results of ASO experiments targeting HIF1A gene discussed in the following publication:
    - **Source**: Papargyri, N., Pontoppidan, M., Andersen, M.R., Koch, T., and Hagedorn, P.H.
 (2020). Chemical Diversity of Locked Nucleic Acid-Modified Antisense
 Oligonucleotides Allows Optimization of Pharmaceutical Properties. Mol. Ther.
