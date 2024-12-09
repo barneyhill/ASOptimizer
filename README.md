@@ -2,7 +2,7 @@
 
 11/06/2024 - Our paper "ASOptimizer: Optimizing antisense oligonucleotides through deep learning for IDO1 gene regulation" has been published at *Molecular Therapy Nucleic Acids*.
 
-06/12/2024 - The code for chemical engineering and the corresponding experimental data are publicly available for reference and use.
+09/12/2024 - The code for chemical engineering and the corresponding experimental data are publicly available for reference and use.
 
 To access ASOptimizer, we have developed a web server that runs ASOptimizer on the backend and provided free access to it.
 You can access it through the following link: [http://asoptimizer.s-core.ai/](http://asoptimizer.s-core.ai/) *(will be released by the end of December).*
