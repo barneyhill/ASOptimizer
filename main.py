@@ -10,7 +10,7 @@ import torch
 from scipy import stats
 from absl import flags, app
 from libml import models, utils
-from libml.data import DATASETS
+from libml.data import DATASETSgi
 from sklearn import metrics
 from tensorflow.python.framework.convert_to_constants import convert_variables_to_constants_v2
 import logging
