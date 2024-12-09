@@ -21,7 +21,7 @@ To access ASOptimizer, we have developed a web server that runs ASOptimizer on t
 ## Data Sources
 The data used in this project is sourced from the following:
 
-1. [Dataset from *Spidercore Inc.*] ([URL](https://drive.google.com/drive/folders/1kn9G7DFfsDhsuzvTEOx7dswdKX76SZId?usp=sharing) to dataset)  
+1. [Dataset from *Spidercore Inc.*] ([URL](https://github.com/Spidercores/ASOptimizer/tree/main/dataset) to dataset)  
    - Description: A curated dataset of in vitro experimental results, primarily gathered from published data samples on Lens.org through an iterative data collection process.
    - Source: Spidercore Inc. Special thanks to our dedicated team members for their efforts in compiling and organizing this dataset.  
 
