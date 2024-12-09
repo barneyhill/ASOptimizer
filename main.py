@@ -218,7 +218,7 @@ class ASOptimizer(models.EGT_Model):
                     if roche_corr > best_corr:
                         best_epoch_roche = epoch
                         best_corr = roche_corr
-                        model.save_weights(checkpoint_prefi_roche)
+                        model.save_weights(checkpoint_prefix_roche)
                         print("[*] Best epoch: {}".format(best_epoch_roche))
                         
                     df_save['epoch'] = df_save['epoch'].astype(int)
