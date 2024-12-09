@@ -32,18 +32,6 @@ The data used in this project is sourced from the following:
 Oligonucleotides Allows Optimization of Pharmaceutical Properties. Mol. Ther.
 Nucleic Acids 19, 706–717.
 
-## Download Instructions:
-You can download the dataset and place it into the dataset/ folder within your project directory. Ensure the folder structure looks like this:
-
-project_directory/
-│
-├── dataset/
-│   └── [downloaded_dataset_files]
-│
-├── libpreprocess/
-├── models/
-├── README.md
-
 
 Please refer to the original sources for more details on the data and its terms of use.
 
@@ -51,8 +39,9 @@ Please refer to the original sources for more details on the data and its terms 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/username/Asoptimizer-chem.git
-cd Asoptimizer-chem
+git clone https://github.com/username/ASOptimizer.git
+cd ASOptimizer
+mkdir data
 ```
 
 ###  Install Dependencies
@@ -60,9 +49,8 @@ cd Asoptimizer-chem
 2. Install the required Python packages:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
-- Please download the zip files and place csv files into the "/data" folder
 
 ### Data preprocessing
 - data_type: 'training'
