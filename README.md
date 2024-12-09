@@ -101,7 +101,7 @@ python3 main.py --mode 'screen'
 ### Checkpoints
 We provide a pre-trained model checkpoint on our paper. These checkpoint can be used to evaluate directly for inference.  
 
-1. **Training Checkpoint (`checkpoints/training_checkpoints`)**  
+1. **Model Checkpoint (`checkpoints/training_checkpoints`)**  
 ```bash
   checkpoint_dir = './checkpoints/training_checkpoints'
   with mirrored_strategy.scope():
@@ -109,6 +109,11 @@ We provide a pre-trained model checkpoint on our paper. These checkpoint can be 
       model.summary()
       model.load_weights(os.path.join(checkpoint_dir, 'best_checkpoint'))
 ```
+
+### Model architecture
+
+The model architecture used in this project is based on the implementation from [this GitHub repository](https://github.com/shamim-hussain/egt). The code has been adapted and extended to suit the specific requirements of our project.
+We express our gratitude to the original authors for their valuable contributions to the open-source community.
 
 ### Citing this work
 Please cite the following paper if you find the code and data useful:
