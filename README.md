@@ -4,7 +4,9 @@
 
 06/12/2024 - The code for chemical engineering and the corresponding experimental data are publicly available for reference and use.
 
-To access ASOptimizer, we have developed a web server that runs ASOptimizer on the backend and provided free access to it. You can access it through the following link: http://asoptimizer.s-core.ai/
+To access ASOptimizer, we have developed a web server that runs ASOptimizer on the backend and provided free access to it.
+You can access it through the following link: [http://asoptimizer.s-core.ai/](http://asoptimizer.s-core.ai/) *(will be released by the end of December).*
+
 
 > **ASOptimizer consists of a database and two computational models: *sequence engineering* and *chemical engineering***.
 
@@ -45,7 +47,8 @@ mkdir data
 ```
 
 ###  Install Dependencies
-1. Ensure you have Python 3.8 and tensorflow 2.3.0.
+1. In our case, we use *Python 3.8*, *TensorFlow 2.3.0*, and *CUDA 10.1*. 
+*(Please ensure you update CUDA to the version compatible with your setup.)*
 2. Install the required Python packages:
 
 ```bash
