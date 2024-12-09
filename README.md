@@ -56,11 +56,11 @@ pip3 install -r requirements.txt
 ```
 
 ### Data preprocessing
-- data_type: 'training'
+- **data_type: 'training'**
 
   Creates a paired dataset (graph representation) for chemical engineering tasks (D_train, D_test).
 
-- data_type: 'screening'
+- **data_type: 'screening'**
   
   Generates a dataset (graph representation) from experimental data provided by Roche.
   
@@ -71,15 +71,15 @@ python3 libpreprocess/make_tfrecords.py --data_type 'screening'
 
 ### Run Training and Evaluations
 
-- mode: 'train'
+- **mode: 'train'**
 
 Train ASOptimizer using Dtrain.
 
-- mode: 'test'
+- **mode: 'test'**
 
 Test ASOptimizer using Dtest.
 
-- mode: 'screen'
+- **mode: 'screen'**
 
 Evaluate and generate scores for the desired ASO using Dscreen. The data used for screening is currently set to Roche's dataset, stored in the screening folder.
 
