@@ -39,7 +39,7 @@ Please refer to the original sources for more details on the data and its terms 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/username/ASOptimizer.git
+git clone https://github.com/Spidercores/ASOptimizer.git
 cd ASOptimizer
 mkdir data
 ```
