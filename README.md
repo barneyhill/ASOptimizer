@@ -8,9 +8,9 @@ To access ASOptimizer, we have developed a web server that runs ASOptimizer on t
 You can access it through the following link: [http://asoptimizer.s-core.ai/](http://asoptimizer.s-core.ai/) *(will be released by the end of December).*
 
 
-> **ASOptimizer consists of a database and two computational models: *sequence engineering* and *chemical engineering***.
+> ASOptimizer consists of **a database** and **two computational models**: *sequence engineering* and *chemical engineering*.
 
-> **This repository focuses exclusively on the *chemical engineering* , providing related data and source code**.
+> This repository focuses exclusively on the **chemical engineering**, providing related data and source code.
 
 ## 📂 Key Components
 
