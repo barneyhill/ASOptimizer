@@ -24,12 +24,12 @@ You can access it through the following link: [http://asoptimizer.s-core.ai/](ht
 The data used in this project is sourced from the following:
 
 1. [Dataset from *Spidercore Inc.*] ([URL](https://github.com/Spidercores/ASOptimizer/tree/main/dataset) to dataset)  
-   - Description: A curated dataset of in vitro experimental results, primarily gathered from published data samples on Lens.org through an iterative data collection process.
-   - Source: Spidercore Inc. Special thanks to our dedicated team members for their efforts in compiling and organizing this dataset.  
+   - **Description**: A curated dataset of in vitro experimental results, primarily gathered from published data samples on Lens.org through an iterative data collection process.
+   - **Source**: *Spidercore Inc*. Special thanks to our dedicated team members for their efforts in compiling and organizing this dataset.  
 
 2. [Dataset source from *Roche.*] ([URL](https://www.sciencedirect.com/science/article/pii/S2162253119304068))  
-   - Description: This dataset contains 256 experimental results of ASO experiments trageting HIF1A gene discussed in the following publication:
-   - Source: Papargyri, N., Pontoppidan, M., Andersen, M.R., Koch, T., and Hagedorn, P.H.
+   - **Description**: This dataset contains 256 experimental results of ASO experiments trageting HIF1A gene discussed in the following publication:
+   - **Source**: Papargyri, N., Pontoppidan, M., Andersen, M.R., Koch, T., and Hagedorn, P.H.
 (2020). Chemical Diversity of Locked Nucleic Acid-Modified Antisense
 Oligonucleotides Allows Optimization of Pharmaceutical Properties. Mol. Ther.
 Nucleic Acids 19, 706–717.
