@@ -48,7 +48,7 @@ mkdir data
 
 ###  Install Dependencies
 1. In our case, we use *Python 3.8*, *TensorFlow 2.3.0*, and *CUDA 10.1*. 
-*(Please ensure you update CUDA to the version compatible with your setup.)*
+*(Please ensure you use the Python and TensorFlow versions that are compatible with your CUDA version.)*
 2. Install the required Python packages:
 
 ```bash
