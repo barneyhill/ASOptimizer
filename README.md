@@ -130,4 +130,4 @@ If you have any questions not addressed in this repository or if you encounter a
 We would love to hear your thoughts and learn how ASOptimizer has benefited your research. Please share your experiences with us at *kiwon@spidercore.io*.
 
 ### User Licence
-> User License: Creative Commons Attribution – NonCommercial – NoDerivs (CC BY-NC-ND 4.0) | Elsevier's open access license policy
+> User License: Creative Commons Attribution – NonCommercial – NoDerivs (CC BY-NC-ND 4.0)
